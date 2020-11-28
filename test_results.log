@@ -1,0 +1,429 @@
+[2020-11-26T15:53:41.610] [INFO] result - User Logging in
+[2020-11-26T15:53:42.873] [INFO] result - Login Completed
+[2020-11-26T15:53:52.886] [INFO] result - Documents Page Loaded
+[2020-11-26T15:53:53.106] [INFO] result - Uploads Page Loaded
+[2020-11-26T15:53:57.781] [INFO] results - Team tag checked
+[2020-11-26T15:54:00.781] [INFO] results - Uploading file....
+[2020-11-26T15:54:00.958] [INFO] results - Adding tags and document informations
+[2020-11-26T15:54:08.195] [INFO] results - File upload complete
+[2020-11-26T15:54:08.480] [INFO] result - Documents Page Refreshed
+[2020-11-26T15:54:18.331] [INFO] result - Documents Page Loaded
+[2020-11-26T15:54:23.485] [INFO] result - Documents Page Loaded
+[2020-11-26T15:54:23.682] [INFO] result - Documents Page Loaded
+[2020-11-26T15:54:30.272] [INFO] result - Checking for uploaded document in documents page
+[2020-11-26T15:54:35.510] [INFO] result - Document Selected
+[2020-11-26T15:54:36.022] [INFO] result - Editting the document
+[2020-11-26T15:54:43.307] [INFO] result - Adding Facts
+[2020-11-26T15:54:47.055] [INFO] result - Checking for documents are being updated alert
+[2020-11-26T15:54:52.285] [INFO] result - Document Expanded
+[2020-11-26T15:54:58.025] [INFO] result - Checking the fact counts
+[2020-11-26T15:55:03.371] [INFO] result - Checking the fact name in document expansion
+[2020-11-26T15:55:16.555] [INFO] result - Selecting Fact filter
+[2020-11-26T15:55:21.624] [INFO] result - Checking the results
+[2020-11-26T15:55:30.468] [INFO] result - Selecting Tag filter
+[2020-11-26T15:55:35.501] [INFO] result - Checking the results
+[2020-11-26T16:22:36.588] [INFO] result - User Logging in
+[2020-11-26T16:22:40.099] [INFO] result - Login Completed
+[2020-11-26T16:22:50.106] [INFO] result - Documents Page Loaded
+[2020-11-26T16:22:50.340] [INFO] result - Uploads Page Loaded
+[2020-11-26T16:22:54.389] [INFO] results - Team tag checked
+[2020-11-26T16:22:57.392] [INFO] results - Uploading file....
+[2020-11-26T16:22:57.496] [INFO] results - Adding tags and document informations
+[2020-11-26T16:23:05.009] [INFO] results - File upload complete
+[2020-11-26T16:23:05.325] [INFO] result - Documents Page Refreshed
+[2020-11-26T16:23:15.180] [INFO] result - Documents Page Loaded
+[2020-11-26T16:23:20.336] [INFO] result - Documents Page Loaded
+[2020-11-26T16:23:20.581] [INFO] result - Documents Page Loaded
+[2020-11-26T16:23:27.141] [INFO] result - Checking for uploaded document in documents page
+[2020-11-26T16:23:32.522] [INFO] result - Document Selected
+[2020-11-26T16:23:33.078] [INFO] result - Editting the document
+[2020-11-26T16:23:40.270] [INFO] result - Adding Facts
+[2020-11-26T16:23:44.190] [INFO] result - Checking for documents are being updated alert
+[2020-11-26T16:23:49.391] [INFO] result - Document Expanded
+[2020-11-26T16:23:55.370] [INFO] result - Checking the fact counts
+[2020-11-26T16:24:00.746] [INFO] result - Checking the fact name in document expansion
+[2020-11-26T16:24:13.790] [INFO] result - Selecting Fact filter
+[2020-11-26T16:24:18.847] [INFO] result - Checking the results
+[2020-11-26T16:24:27.577] [INFO] result - Selecting Tag filter
+[2020-11-26T16:24:32.616] [INFO] result - Checking the results
+[2020-11-26T16:27:46.803] [INFO] result - User Logging in
+[2020-11-26T16:27:50.573] [INFO] result - Login Completed
+[2020-11-26T16:28:00.579] [INFO] result - Documents Page Loaded
+[2020-11-26T16:28:00.809] [INFO] result - Uploads Page Loaded
+[2020-11-26T16:28:04.827] [INFO] results - Team tag checked
+[2020-11-26T16:28:07.828] [INFO] results - Uploading file....
+[2020-11-26T16:28:07.929] [INFO] results - Adding tags and document informations
+[2020-11-26T16:28:14.372] [INFO] results - File upload complete
+[2020-11-26T16:28:14.701] [INFO] result - Documents Page Refreshed
+[2020-11-26T16:28:24.518] [INFO] result - Documents Page Loaded
+[2020-11-26T16:28:29.712] [INFO] result - Documents Page Loaded
+[2020-11-26T16:28:30.021] [INFO] result - Documents Page Loaded
+[2020-11-26T16:28:36.553] [INFO] result - Checking for uploaded document in documents page
+[2020-11-26T16:28:41.719] [INFO] result - Document Selected
+[2020-11-26T16:28:42.358] [INFO] result - Editting the document
+[2020-11-26T16:28:49.506] [INFO] result - Adding Facts
+[2020-11-26T16:28:53.222] [INFO] result - Checking for documents are being updated alert
+[2020-11-26T16:28:58.384] [INFO] result - Document Expanded
+[2020-11-26T16:29:04.415] [INFO] result - Checking the fact counts
+[2020-11-26T16:29:09.931] [INFO] result - Checking the fact name in document expansion
+[2020-11-26T16:29:23.018] [INFO] result - Selecting Fact filter
+[2020-11-26T16:29:28.122] [INFO] result - Checking the results
+[2020-11-26T16:29:36.796] [INFO] result - Selecting Tag filter
+[2020-11-26T16:29:41.826] [INFO] result - Checking the results
+[2020-11-26T17:21:43.196] [INFO] result - User Logging in
+[2020-11-26T17:21:44.586] [INFO] result - Login Completed
+[2020-11-26T17:21:54.590] [INFO] result - Documents Page Loaded
+[2020-11-26T17:21:54.794] [INFO] result - Uploads Page Loaded
+[2020-11-26T17:21:59.127] [INFO] results - Team tag checked
+[2020-11-26T17:22:02.127] [INFO] results - Uploading file....
+[2020-11-26T17:22:02.235] [INFO] results - Adding tags and document informations
+[2020-11-26T17:22:08.766] [INFO] results - File upload complete
+[2020-11-26T17:22:09.833] [INFO] result - Documents Page Refreshed
+[2020-11-26T17:22:19.685] [INFO] result - Documents Page Loaded
+[2020-11-26T17:22:24.839] [INFO] result - Documents Page Loaded
+[2020-11-26T17:22:25.023] [INFO] result - Documents Page Loaded
+[2020-11-26T17:22:31.531] [INFO] result - Checking for uploaded document in documents page
+[2020-11-26T17:22:36.747] [INFO] result - Document Selected
+[2020-11-26T17:22:37.834] [INFO] result - Editting the document
+[2020-11-26T17:22:44.979] [INFO] result - Adding Facts
+[2020-11-26T17:22:48.757] [INFO] result - Checking for documents are being updated alert
+[2020-11-26T17:22:53.967] [INFO] result - Document Expanded
+[2020-11-26T17:22:59.536] [INFO] result - Checking the fact counts
+[2020-11-26T17:23:04.779] [INFO] result - Checking the fact name in document expansion
+[2020-11-26T17:23:17.615] [INFO] result - Selecting Fact filter
+[2020-11-26T17:23:22.707] [INFO] result - Checking the results
+[2020-11-26T17:23:31.442] [INFO] result - Selecting Tag filter
+[2020-11-26T17:23:36.476] [INFO] result - Checking the results
+[2020-11-26T19:26:39.274] [INFO] result - User Logging in
+[2020-11-26T19:26:40.468] [INFO] result - Login Completed
+[2020-11-26T19:26:50.472] [INFO] result - Documents Page Loaded
+[2020-11-26T19:26:50.680] [INFO] result - Uploads Page Loaded
+[2020-11-26T19:26:56.930] [INFO] results - Team tag checked
+[2020-11-26T19:26:59.931] [INFO] results - Uploading file....
+[2020-11-26T19:27:00.050] [INFO] results - Adding tags and document informations
+[2020-11-26T19:27:06.506] [INFO] results - File upload complete
+[2020-11-26T19:27:06.817] [INFO] result - Documents Page Refreshed
+[2020-11-26T19:27:16.654] [INFO] result - Documents Page Loaded
+[2020-11-26T19:27:21.825] [INFO] result - Documents Page Loaded
+[2020-11-26T19:27:22.070] [INFO] result - Documents Page Loaded
+[2020-11-26T19:27:28.612] [INFO] result - Checking for uploaded document in documents page
+[2020-11-26T19:27:33.774] [INFO] result - Document Selected
+[2020-11-26T19:27:34.409] [INFO] result - Editting the document
+[2020-11-26T19:27:41.859] [INFO] result - Adding Facts
+[2020-11-26T19:27:45.631] [INFO] result - Checking for documents are being updated alert
+[2020-11-26T19:27:50.810] [INFO] result - Document Expanded
+[2020-11-26T19:27:56.150] [INFO] result - Checking the fact counts
+[2020-11-26T19:28:01.468] [INFO] result - Checking the fact name in document expansion
+[2020-11-26T19:28:14.562] [INFO] result - Selecting Fact filter
+[2020-11-26T19:28:19.674] [INFO] result - Checking the results
+[2020-11-26T19:28:28.407] [INFO] result - Selecting Tag filter
+[2020-11-26T19:28:33.444] [INFO] result - Checking the results
+[2020-11-26T20:44:04.133] [INFO] result - User Logging in
+[2020-11-26T20:44:08.508] [INFO] result - Login Completed
+[2020-11-26T20:44:18.512] [INFO] result - Documents Page Loaded
+[2020-11-26T20:44:18.740] [INFO] result - Uploads Page Loaded
+[2020-11-26T20:44:23.181] [INFO] results - Team tag checked
+[2020-11-26T20:44:26.180] [INFO] results - Uploading file....
+[2020-11-26T20:44:26.282] [INFO] results - Adding tags and document informations
+[2020-11-26T20:44:32.712] [INFO] results - File upload complete
+[2020-11-26T20:44:33.013] [INFO] result - Documents Page Refreshed
+[2020-11-26T20:44:42.867] [INFO] result - Documents Page Loaded
+[2020-11-26T20:44:48.021] [INFO] result - Documents Page Loaded
+[2020-11-26T20:44:48.284] [INFO] result - Documents Page Loaded
+[2020-11-26T20:44:54.804] [INFO] result - Checking for uploaded document in documents page
+[2020-11-26T20:44:59.999] [INFO] result - Document Selected
+[2020-11-26T20:45:01.548] [INFO] result - Editting the document
+[2020-11-26T20:45:08.696] [INFO] result - Adding Facts
+[2020-11-26T20:45:12.403] [INFO] result - Checking for documents are being updated alert
+[2020-11-26T20:45:17.603] [INFO] result - Document Expanded
+[2020-11-26T20:45:23.184] [INFO] result - Checking the fact counts
+[2020-11-26T20:45:29.142] [INFO] result - Checking the fact name in document expansion
+[2020-11-26T20:45:41.865] [INFO] result - Selecting Fact filter
+[2020-11-26T20:45:46.944] [INFO] result - Checking the results
+[2020-11-26T20:45:55.602] [INFO] result - Selecting Tag filter
+[2020-11-26T20:46:00.637] [INFO] result - Checking the results
+[2020-11-26T22:51:11.265] [INFO] result - User Logging in
+[2020-11-26T22:51:14.851] [INFO] result - Login Completed
+[2020-11-26T22:51:24.852] [INFO] result - Documents Page Loaded
+[2020-11-26T22:51:25.147] [INFO] result - Uploads Page Loaded
+[2020-11-26T22:51:29.603] [INFO] results - Team tag checked
+[2020-11-26T22:51:32.604] [INFO] results - Uploading file....
+[2020-11-26T22:51:32.695] [INFO] results - Adding tags and document informations
+[2020-11-26T22:51:39.055] [INFO] results - File upload complete
+[2020-11-26T22:51:39.377] [INFO] result - Documents Page Refreshed
+[2020-11-26T22:51:49.222] [INFO] result - Documents Page Loaded
+[2020-11-26T22:51:54.384] [INFO] result - Documents Page Loaded
+[2020-11-26T22:51:54.640] [INFO] result - Documents Page Loaded
+[2020-11-26T22:52:01.159] [INFO] result - Checking for uploaded document in documents page
+[2020-11-26T22:52:06.298] [INFO] result - Document Selected
+[2020-11-26T22:52:06.751] [INFO] result - Editting the document
+[2020-11-26T22:52:13.892] [INFO] result - Adding Facts
+[2020-11-26T22:52:17.513] [INFO] result - Checking for documents are being updated alert
+[2020-11-26T22:52:22.694] [INFO] result - Document Expanded
+[2020-11-26T22:52:27.925] [INFO] result - Checking the fact counts
+[2020-11-26T22:52:33.164] [INFO] result - Checking the fact name in document expansion
+[2020-11-26T22:52:46.021] [INFO] result - Selecting Fact filter
+[2020-11-26T22:52:51.121] [INFO] result - Checking the results
+[2020-11-26T22:52:59.790] [INFO] result - Selecting Tag filter
+[2020-11-26T22:53:04.830] [INFO] result - Checking the results
+[2020-11-27T00:24:46.321] [INFO] result - User Logging in
+[2020-11-27T00:24:47.745] [INFO] result - Login Completed
+[2020-11-27T00:24:57.749] [INFO] result - Documents Page Loaded
+[2020-11-27T00:24:57.998] [INFO] result - Uploads Page Loaded
+[2020-11-27T00:25:03.876] [INFO] results - Team tag checked
+[2020-11-27T00:25:06.876] [INFO] results - Uploading file....
+[2020-11-27T00:25:06.968] [INFO] results - Adding tags and document informations
+[2020-11-27T00:25:13.377] [INFO] results - File upload complete
+[2020-11-27T00:25:13.700] [INFO] result - Documents Page Refreshed
+[2020-11-27T00:25:23.545] [INFO] result - Documents Page Loaded
+[2020-11-27T00:25:28.704] [INFO] result - Documents Page Loaded
+[2020-11-27T00:25:28.961] [INFO] result - Documents Page Loaded
+[2020-11-27T00:25:35.465] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T00:25:40.598] [INFO] result - Document Selected
+[2020-11-27T00:25:41.086] [INFO] result - Editting the document
+[2020-11-27T00:25:48.237] [INFO] result - Adding Facts
+[2020-11-27T00:25:51.965] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T00:25:57.179] [INFO] result - Document Expanded
+[2020-11-27T00:26:02.436] [INFO] result - Checking the fact counts
+[2020-11-27T00:26:07.844] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T00:26:20.927] [INFO] result - Selecting Fact filter
+[2020-11-27T00:26:26.036] [INFO] result - Checking the results
+[2020-11-27T00:26:34.668] [INFO] result - Selecting Tag filter
+[2020-11-27T00:26:39.702] [INFO] result - Checking the results
+[2020-11-27T09:16:09.340] [INFO] result - User Logging in
+[2020-11-27T09:16:13.514] [INFO] result - Login Completed
+[2020-11-27T09:16:23.518] [INFO] result - Documents Page Loaded
+[2020-11-27T09:16:23.873] [INFO] result - Uploads Page Loaded
+[2020-11-27T09:16:31.461] [INFO] results - Team tag checked
+[2020-11-27T09:16:34.465] [INFO] results - Uploading file....
+[2020-11-27T09:16:34.607] [INFO] results - Adding tags and document informations
+[2020-11-27T09:16:41.743] [INFO] results - File upload complete
+[2020-11-27T09:16:42.343] [INFO] result - Documents Page Refreshed
+[2020-11-27T09:16:52.066] [INFO] result - Documents Page Loaded
+[2020-11-27T09:16:57.349] [INFO] result - Documents Page Loaded
+[2020-11-27T09:16:57.702] [INFO] result - Documents Page Loaded
+[2020-11-27T09:17:04.472] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T09:17:10.846] [INFO] result - Document Selected
+[2020-11-27T09:17:11.845] [INFO] result - Editting the document
+[2020-11-27T09:17:19.148] [INFO] result - Adding Facts
+[2020-11-27T09:17:23.280] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T09:17:28.556] [INFO] result - Document Expanded
+[2020-11-27T09:17:34.698] [INFO] result - Checking the fact counts
+[2020-11-27T09:17:41.999] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T09:17:58.474] [INFO] result - Selecting Fact filter
+[2020-11-27T09:18:03.687] [INFO] result - Checking the results
+[2020-11-27T09:18:13.048] [INFO] result - Selecting Tag filter
+[2020-11-27T09:18:18.096] [INFO] result - Checking the results
+[2020-11-27T09:53:42.230] [INFO] result - User Logging in
+[2020-11-27T09:53:46.347] [INFO] result - Login Completed
+[2020-11-27T09:53:56.351] [INFO] result - Documents Page Loaded
+[2020-11-27T09:53:56.594] [INFO] result - Uploads Page Loaded
+[2020-11-27T09:54:00.657] [INFO] results - Team tag checked
+[2020-11-27T09:54:03.656] [INFO] results - Uploading file....
+[2020-11-27T09:54:03.802] [INFO] results - Adding tags and document informations
+[2020-11-27T09:54:10.295] [INFO] results - File upload complete
+[2020-11-27T09:54:10.536] [INFO] result - Documents Page Refreshed
+[2020-11-27T09:54:20.431] [INFO] result - Documents Page Loaded
+[2020-11-27T09:54:25.547] [INFO] result - Documents Page Loaded
+[2020-11-27T09:54:25.794] [INFO] result - Documents Page Loaded
+[2020-11-27T09:54:32.355] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T09:54:37.478] [INFO] result - Document Selected
+[2020-11-27T09:54:37.738] [INFO] result - Editting the document
+[2020-11-27T09:54:44.907] [INFO] result - Adding Facts
+[2020-11-27T09:54:48.524] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T09:54:53.696] [INFO] result - Document Expanded
+[2020-11-27T09:54:58.978] [INFO] result - Checking the fact counts
+[2020-11-27T09:55:04.224] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T09:55:24.821] [INFO] result - Selecting Tag filter
+[2020-11-27T09:55:29.858] [INFO] result - Checking the results
+[2020-11-27T09:58:33.546] [INFO] result - User Logging in
+[2020-11-27T09:58:38.739] [INFO] result - Login Completed
+[2020-11-27T09:58:48.743] [INFO] result - Documents Page Loaded
+[2020-11-27T09:58:48.956] [INFO] result - Uploads Page Loaded
+[2020-11-27T09:58:52.976] [INFO] results - Team tag checked
+[2020-11-27T09:58:55.977] [INFO] results - Uploading file....
+[2020-11-27T09:58:56.069] [INFO] results - Adding tags and document informations
+[2020-11-27T09:59:02.874] [INFO] results - File upload complete
+[2020-11-27T09:59:03.155] [INFO] result - Documents Page Refreshed
+[2020-11-27T09:59:13.036] [INFO] result - Documents Page Loaded
+[2020-11-27T09:59:18.161] [INFO] result - Documents Page Loaded
+[2020-11-27T09:59:18.439] [INFO] result - Documents Page Loaded
+[2020-11-27T09:59:24.961] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T09:59:30.092] [INFO] result - Document Selected
+[2020-11-27T09:59:30.436] [INFO] result - Editting the document
+[2020-11-27T09:59:37.551] [INFO] result - Adding Facts
+[2020-11-27T09:59:41.272] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T09:59:46.446] [INFO] result - Document Expanded
+[2020-11-27T09:59:52.414] [INFO] result - Checking the fact counts
+[2020-11-27T09:59:57.767] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T10:00:10.645] [INFO] result - Selecting Fact filter
+[2020-11-27T10:00:19.353] [INFO] result - Selecting Tag filter
+[2020-11-27T10:00:24.391] [INFO] result - Checking the results
+[2020-11-27T10:03:28.364] [INFO] result - User Logging in
+[2020-11-27T10:03:32.028] [INFO] result - Login Completed
+[2020-11-27T10:03:42.031] [INFO] result - Documents Page Loaded
+[2020-11-27T10:03:42.229] [INFO] result - Uploads Page Loaded
+[2020-11-27T10:03:46.387] [INFO] results - Team tag checked
+[2020-11-27T10:03:49.387] [INFO] results - Uploading file....
+[2020-11-27T10:03:49.485] [INFO] results - Adding tags and document informations
+[2020-11-27T10:03:55.832] [INFO] results - File upload complete
+[2020-11-27T10:03:56.156] [INFO] result - Documents Page Refreshed
+[2020-11-27T10:04:05.987] [INFO] result - Documents Page Loaded
+[2020-11-27T10:04:11.163] [INFO] result - Documents Page Loaded
+[2020-11-27T10:04:11.444] [INFO] result - Documents Page Loaded
+[2020-11-27T10:04:18.053] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T10:04:23.184] [INFO] result - Document Selected
+[2020-11-27T10:04:23.492] [INFO] result - Editting the document
+[2020-11-27T10:04:30.618] [INFO] result - Adding Facts
+[2020-11-27T10:04:34.404] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T10:04:39.574] [INFO] result - Document Expanded
+[2020-11-27T10:04:45.350] [INFO] result - Checking the fact counts
+[2020-11-27T10:04:51.426] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T10:05:04.164] [INFO] result - Selecting Fact filter
+[2020-11-27T10:05:09.851] [INFO] result - Checking the results
+[2020-11-27T10:05:18.684] [INFO] result - Selecting Tag filter
+[2020-11-27T10:05:23.715] [INFO] result - Checking the results
+[2020-11-27T10:12:29.959] [INFO] result - User Logging in
+[2020-11-27T10:12:33.669] [INFO] result - Login Completed
+[2020-11-27T10:12:43.673] [INFO] result - Documents Page Loaded
+[2020-11-27T10:12:43.904] [INFO] result - Uploads Page Loaded
+[2020-11-27T10:12:48.884] [INFO] results - Team tag checked
+[2020-11-27T10:12:51.883] [INFO] results - Uploading file....
+[2020-11-27T10:12:51.979] [INFO] results - Adding tags and document informations
+[2020-11-27T10:12:58.456] [INFO] results - File upload complete
+[2020-11-27T10:12:58.763] [INFO] result - Documents Page Refreshed
+[2020-11-27T10:13:08.626] [INFO] result - Documents Page Loaded
+[2020-11-27T10:13:13.771] [INFO] result - Documents Page Loaded
+[2020-11-27T10:13:14.026] [INFO] result - Documents Page Loaded
+[2020-11-27T10:13:20.576] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T10:13:25.708] [INFO] result - Document Selected
+[2020-11-27T10:13:26.082] [INFO] result - Editting the document
+[2020-11-27T10:13:33.224] [INFO] result - Adding Facts
+[2020-11-27T10:13:37.038] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T10:13:42.213] [INFO] result - Document Expanded
+[2020-11-27T10:13:47.527] [INFO] result - Checking the fact counts
+[2020-11-27T10:13:53.030] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T10:14:05.759] [INFO] result - Selecting Fact filter
+[2020-11-27T10:14:10.814] [INFO] result - Checking the results
+[2020-11-27T10:14:19.330] [INFO] result - Selecting Tag filter
+[2020-11-27T10:14:24.357] [INFO] result - Checking the results
+[2020-11-27T10:22:27.588] [INFO] result - User Logging in
+[2020-11-27T10:22:31.434] [INFO] result - Login Completed
+[2020-11-27T10:22:41.440] [INFO] result - Documents Page Loaded
+[2020-11-27T10:22:41.640] [INFO] result - Uploads Page Loaded
+[2020-11-27T10:22:45.557] [INFO] results - Team tag checked
+[2020-11-27T10:22:48.561] [INFO] results - Uploading file....
+[2020-11-27T10:22:49.306] [INFO] results - Adding tags and document informations
+[2020-11-27T10:22:56.138] [INFO] results - File upload complete
+[2020-11-27T10:22:56.443] [INFO] result - Documents Page Refreshed
+[2020-11-27T10:23:06.276] [INFO] result - Documents Page Loaded
+[2020-11-27T10:23:11.449] [INFO] result - Documents Page Loaded
+[2020-11-27T10:23:11.697] [INFO] result - Documents Page Loaded
+[2020-11-27T10:23:18.230] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T10:23:23.355] [INFO] result - Document Selected
+[2020-11-27T10:23:23.564] [INFO] result - Editting the document
+[2020-11-27T10:23:30.683] [INFO] result - Adding Facts
+[2020-11-27T10:23:34.273] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T10:23:39.446] [INFO] result - Document Expanded
+[2020-11-27T10:23:45.598] [INFO] result - Checking the fact counts
+[2020-11-27T10:23:51.005] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T10:24:03.735] [INFO] result - Selecting Fact filter
+[2020-11-27T10:24:08.777] [INFO] result - Checking the results
+[2020-11-27T10:24:17.350] [INFO] result - Selecting Tag filter
+[2020-11-27T10:24:22.387] [INFO] result - Checking the results
+[2020-11-27T10:55:32.921] [INFO] result - User Logging in
+[2020-11-27T10:55:36.738] [INFO] result - Login Completed
+[2020-11-27T10:55:46.745] [INFO] result - Documents Page Loaded
+[2020-11-27T10:55:46.986] [INFO] result - Uploads Page Loaded
+[2020-11-27T10:55:51.087] [INFO] results - Team tag checked
+[2020-11-27T10:55:54.085] [INFO] results - Uploading file....
+[2020-11-27T10:55:54.195] [INFO] results - Adding tags and document informations
+[2020-11-27T10:56:01.391] [INFO] results - File upload complete
+[2020-11-27T10:56:01.641] [INFO] result - Documents Page Refreshed
+[2020-11-27T10:56:11.515] [INFO] result - Documents Page Loaded
+[2020-11-27T10:56:16.647] [INFO] result - Documents Page Loaded
+[2020-11-27T10:56:16.894] [INFO] result - Documents Page Loaded
+[2020-11-27T10:56:23.854] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T10:56:29.107] [INFO] result - Document Selected
+[2020-11-27T10:56:29.375] [INFO] result - Editting the document
+[2020-11-27T10:56:36.493] [INFO] result - Adding Facts
+[2020-11-27T10:56:40.082] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T10:56:45.268] [INFO] result - Document Expanded
+[2020-11-27T10:56:50.713] [INFO] result - Checking the fact counts
+[2020-11-27T10:56:55.920] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T10:57:08.466] [INFO] result - Selecting Fact filter
+[2020-11-27T10:57:13.550] [INFO] result - Checking the results
+[2020-11-27T10:57:22.062] [INFO] result - Selecting Tag filter
+[2020-11-27T10:57:27.096] [INFO] result - Checking the results
+[2020-11-27T11:11:31.123] [INFO] result - User Logging in
+[2020-11-27T11:11:34.841] [INFO] result - Login Completed
+[2020-11-27T11:11:44.845] [INFO] result - Documents Page Loaded
+[2020-11-27T11:11:45.034] [INFO] result - Uploads Page Loaded
+[2020-11-27T11:11:49.109] [INFO] results - Team tag checked
+[2020-11-27T11:11:52.109] [INFO] results - Uploading file....
+[2020-11-27T11:11:52.210] [INFO] results - Adding tags and document informations
+[2020-11-27T11:11:58.630] [INFO] results - File upload complete
+[2020-11-27T11:11:58.846] [INFO] result - Documents Page Refreshed
+[2020-11-27T11:12:08.730] [INFO] result - Documents Page Loaded
+[2020-11-27T11:12:13.851] [INFO] result - Documents Page Loaded
+[2020-11-27T11:12:14.019] [INFO] result - Documents Page Loaded
+[2020-11-27T11:12:20.560] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T11:12:25.610] [INFO] result - Document Selected
+[2020-11-27T11:12:25.828] [INFO] result - Editting the document
+[2020-11-27T11:12:33.056] [INFO] result - Adding Facts
+[2020-11-27T11:12:36.780] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T11:12:41.905] [INFO] result - Document Expanded
+[2020-11-27T11:12:47.624] [INFO] result - Checking the fact counts
+[2020-11-27T11:12:53.358] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T11:13:05.937] [INFO] result - Selecting Fact filter
+[2020-11-27T11:13:10.982] [INFO] result - Checking the results
+[2020-11-27T11:13:19.476] [INFO] result - Selecting Tag filter
+[2020-11-27T11:13:24.504] [INFO] result - Checking the results
+[2020-11-27T11:19:48.767] [INFO] result - User Logging in
+[2020-11-27T11:19:52.666] [INFO] result - Login Completed
+[2020-11-27T11:20:02.667] [INFO] result - Documents Page Loaded
+[2020-11-27T11:20:02.803] [INFO] result - Uploads Page Loaded
+[2020-11-27T11:20:07.643] [INFO] results - Team tag checked
+[2020-11-27T11:20:10.644] [INFO] results - Uploading file....
+[2020-11-27T11:20:10.743] [INFO] results - Adding tags and document informations
+[2020-11-27T11:20:18.164] [INFO] results - File upload complete
+[2020-11-27T11:20:18.406] [INFO] result - Documents Page Refreshed
+[2020-11-27T11:20:28.279] [INFO] result - Documents Page Loaded
+[2020-11-27T11:20:33.418] [INFO] result - Documents Page Loaded
+[2020-11-27T11:20:33.606] [INFO] result - Documents Page Loaded
+[2020-11-27T11:20:40.151] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T11:20:45.209] [INFO] result - Document Selected
+[2020-11-27T11:20:45.491] [INFO] result - Editting the document
+[2020-11-27T11:20:52.645] [INFO] result - Adding Facts
+[2020-11-27T11:20:56.313] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T11:21:01.409] [INFO] result - Document Expanded
+[2020-11-27T11:21:06.667] [INFO] result - Checking the fact counts
+[2020-11-27T11:21:11.888] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T11:21:24.684] [INFO] result - Selecting Fact filter
+[2020-11-27T11:21:29.732] [INFO] result - Checking the results
+[2020-11-27T11:21:38.216] [INFO] result - Selecting Tag filter
+[2020-11-27T11:21:43.248] [INFO] result - Checking the results
+[2020-11-27T14:38:47.666] [INFO] result - User Logging in
+[2020-11-27T14:38:51.188] [INFO] result - Login Completed
+[2020-11-27T14:39:01.192] [INFO] result - Documents Page Loaded
+[2020-11-27T14:39:01.314] [INFO] result - Uploads Page Loaded
+[2020-11-27T14:39:06.244] [INFO] results - Team tag checked
+[2020-11-27T14:39:09.246] [INFO] results - Uploading file....
+[2020-11-27T14:39:09.570] [INFO] results - Adding tags and document informations
+[2020-11-27T14:39:16.117] [INFO] results - File upload complete
+[2020-11-27T14:39:16.333] [INFO] result - Documents Page Refreshed
+[2020-11-27T14:39:26.226] [INFO] result - Documents Page Loaded
+[2020-11-27T14:39:31.337] [INFO] result - Documents Page Loaded
+[2020-11-27T14:39:31.530] [INFO] result - Documents Page Loaded
+[2020-11-27T14:39:38.065] [INFO] result - Checking for uploaded document in documents page
+[2020-11-27T14:39:43.117] [INFO] result - Document Selected
+[2020-11-27T14:39:43.349] [INFO] result - Editting the document
+[2020-11-27T14:39:50.682] [INFO] result - Adding Facts
+[2020-11-27T14:39:54.493] [INFO] result - Checking for documents are being updated alert
+[2020-11-27T14:39:59.595] [INFO] result - Document Expanded
+[2020-11-27T14:40:05.669] [INFO] result - Checking the fact counts
+[2020-11-27T14:40:11.105] [INFO] result - Checking the fact name in document expansion
+[2020-11-27T14:40:23.672] [INFO] result - Selecting Fact filter
+[2020-11-27T14:40:28.736] [INFO] result - Checking the results
+[2020-11-27T14:40:37.262] [INFO] result - Selecting Tag filter
+[2020-11-27T14:40:42.293] [INFO] result - Checking the results

@@ -1,0 +1,1 @@
+{"description":"apply fact value on uploaded document & check toast message|verify user can apply fact value to single document using bulk update","passed":true,"pending":false,"os":"Mac OS X","instanceId":62024,"browser":{"name":"chrome","version":"87.0.4280.67"},"message":"Passed","browserLogs":[],"timestamp":1606493540604,"duration":16216}

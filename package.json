@@ -1,0 +1,17 @@
+{
+  "name": "thoughttrace",
+  "version": "1.0.0",
+  "description": "ThoughTrace Assessment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaisakh",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "log4js": "^6.3.0",
+    "protractor": "^7.0.0",
+    "protractor-beautiful-reporter": "^1.3.6"
+  }
+}
